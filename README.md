@@ -3,4 +3,4 @@
 test repository
 
 Hello GitHub
-modifies README
+modifies README.md
